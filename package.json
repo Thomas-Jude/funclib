@@ -1,0 +1,11 @@
+{
+  "name": "@bbones/funclib",
+  "version": "0.0.1",
+  "description": "A Functional Library",
+  "main": "main.js",
+  "author": "Benjamin Darbonne <dev.darbonne.ben@gmail.com>",
+  "license": "GNU",
+  "publishConfig": {
+    "access": "public"
+  }
+}
