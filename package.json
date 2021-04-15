@@ -1,6 +1,6 @@
 {
   "name": "@bbones/funclib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Functional Library",
   "main": "main.js",
   "author": "Benjamin Darbonne <dev.darbonne.ben@gmail.com>",
