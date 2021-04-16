@@ -1,8 +1,14 @@
 {
   "name": "@bbones/funclib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Functional Library",
-  "main": "main.js",
+  "main": "./build/main.js",
+  "types": "./build/main.d.ts",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node .",
+    "clean": "rm -Rf ./build"
+  },
   "author": "Benjamin Darbonne <dev.darbonne.ben@gmail.com>",
   "license": "GNU",
   "publishConfig": {
