@@ -1,6 +1,6 @@
 {
   "name": "@thomasjude/funclib",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A Functional Library",
   "main": "./build/main.js",
   "types": "./build/main.d.ts",
