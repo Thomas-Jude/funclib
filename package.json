@@ -1,5 +1,5 @@
 {
-  "name": "@bbones/funclib",
+  "name": "@thomasjude/funclib",
   "version": "0.0.5",
   "description": "A Functional Library",
   "main": "./build/main.js",
