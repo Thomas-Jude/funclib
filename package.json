@@ -1,6 +1,6 @@
 {
   "name": "@thomasjude/funclib",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A Functional Library",
   "main": "./build/main.js",
   "types": "./build/main.d.ts",
@@ -13,5 +13,8 @@
   "license": "GNU",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "files": [
+    "/build"
+  ]
 }
