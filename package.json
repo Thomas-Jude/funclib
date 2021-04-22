@@ -1,6 +1,6 @@
 {
   "name": "@bbones/funclib",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Functional Library",
   "main": "./build/main.js",
   "types": "./build/main.d.ts",
